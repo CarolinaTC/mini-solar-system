@@ -2,6 +2,12 @@
 
 An interactive 3D solar system with a minimalist English interface. Explore all eight planets, follow their orbits, and discover planetary data and fascinating facts.
 
+<img width="1364" height="672" alt="image" src="https://github.com/user-attachments/assets/2f71d213-f5b7-4c3b-8050-605aa153731b" />
+
+
+<img width="1422" height="689" alt="image" src="https://github.com/user-attachments/assets/4dd0a5ea-2ce3-4417-b023-115e90c7deb2" />
+
+
 ## Run locally
 
 Requirements: **Node.js 22 or later** and npm 10.5.1 or later. The Node version is specified in `.nvmrc`.
